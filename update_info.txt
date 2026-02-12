@@ -1,2 +1,2 @@
 version=2
-url=https://github.com/kiansionglau/releases/download/eye_imageleftexpression_OTA.ino.bin
+url=https://github.com/kiansionglau/ESP32_Eye_OTA/releases/download/eye_imageleftexpression_OTA/eye_imageleftexpression_OTA.ino.bin
